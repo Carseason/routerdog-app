@@ -1,0 +1,13 @@
+{
+    "avg": {
+        "load1": 0.00,
+        "load5": 0.00,
+        "load15": 0.00
+    },
+    "misc": {
+        "procsTotal": 0,
+        "procsRunning": 0,
+        "procsBlocked": 0,
+        "ctxt": 0
+    }
+}

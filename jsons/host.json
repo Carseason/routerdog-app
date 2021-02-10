@@ -1,0 +1,16 @@
+{
+    "hostname": "",
+    "uptime": 0,
+    "bootTime": 0,
+    "procs": 0,
+    "os": "",
+    "platform": "",
+    "platformFamily": "",
+    "platformVersion": "",
+    "kernelVersion": "",
+    "kernelArch": "",
+    "virtualizationSystem": "",
+    "virtualizationRole": "",
+    "hostId": "",
+    "serverVersion": ""
+}
